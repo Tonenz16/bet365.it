@@ -4,6 +4,7 @@
 <h3>Bypass Bot Detection! 😎</h3>
 
 Data scraper for bet365.it (Italian) 🇮🇹
+<b>Only Python 🐍</b>
 Stay tuned! 🔎
 
 For updates, information, contact me on <b>Telegram</b> ℹ️
