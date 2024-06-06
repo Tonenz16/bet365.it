@@ -28,8 +28,6 @@ Name Home
 Name Away
 Score Home (if available)
 Score Away (if available)
-Home Shirt Icon 
-Away Shirt Icon
 Odds (1)
 Odds (X)
 Odds (2)
@@ -47,8 +45,6 @@ Name Home
 Name Away
 Score Home
 Score Away
-Home Shirt Icon (if available)
-Away Shirt Icon (if available)
 Odds (1)
 Odds (X)
 Odds (2)
